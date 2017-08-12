@@ -41,7 +41,9 @@ label.tooltip span {
   left: -30px;
 }
 
-
+label.tooltip input:checked ~ span {
+  display: block;
+}
 
 
 
