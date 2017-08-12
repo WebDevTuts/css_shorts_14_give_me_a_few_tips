@@ -45,7 +45,7 @@ label.tooltip input:checked ~ span {
   display: block;
 }
 
-
+label.tooltip input { display: none; }
 
 
 
