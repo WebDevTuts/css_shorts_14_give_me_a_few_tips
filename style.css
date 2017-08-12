@@ -26,11 +26,20 @@ label.tooltip {
   cursor: help;
 }
 
-
-
-
-
-
+label.tooltip span {
+  width: 120px;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  background-color: #630c3c;
+  color: #FFF;
+  text-align: center;
+  padding: 8px 20px;
+  border-radius: 20px;
+  display: none;
+  position: absolute;
+  bottom: 90%;
+  left: -30px;
+}
 
 
 
